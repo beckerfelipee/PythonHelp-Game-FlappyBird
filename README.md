@@ -36,7 +36,7 @@ pip install pygame
 1. Clone this repository to your local environment:
 
 ```bash
-git clone https://github.com/your-username/flappy-bird-python.git
+git clone https://github.com/beckerfelipee/PythonHelp-Game-FlappyBird.git
 ```
 
 2. Navigate to the project directory:
