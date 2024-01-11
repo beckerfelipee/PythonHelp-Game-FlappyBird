@@ -66,5 +66,7 @@ Contributions are welcome! If you'd like to improve or add features to the game,
 
 This project was inspired by the famous Flappy Bird game and was created with the goal of educating aspiring Python developers in game development using the Pygame library. Thanks to the open-source developer community for their contributions.
 
-Enjoy creating and playing games with Python! 🐦🎮
+**Enjoy creating and playing games with Python! 🐦🎮**
+
+----
 
