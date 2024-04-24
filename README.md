@@ -1,10 +1,10 @@
-<a href="https://cdn.discordapp.com/attachments/770989141134671925/1160185849334464573/Python_help_-_Aulas_particulares.pdf?ex=6533be45&is=65214945&hm=677f726106df35d432bc6bc649894043d88e37f308f54047fed8e4c00b671dae&">
+<a href="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/PythonHelp/Python%20Help.png">
   <img align="right" alt="Python-help" height="70" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/PythonHelp/PythonHelp.png">
 </a>
 
 # Flappy Bird in Python with Pygame
 
-This repository contain a simple version of the Flappy Bird game implemented in Python using the Pygame library. This game was created as part of the [Python Help](https://cdn.discordapp.com/attachments/770989141134671925/1160185849334464573/Python_help_-_Aulas_particulares.pdf?ex=6533be45&is=65214945&hm=677f726106df35d432bc6bc649894043d88e37f308f54047fed8e4c00b671dae&) project, aiming to teach students how to create games using Pygame.
+This repository contain a simple version of the Flappy Bird game implemented in Python using the Pygame library. This game was created as part of the [Python Help](https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/PythonHelp/Python%20Help.png) project, aiming to teach students how to create games using Pygame.
 
 <img alt="FlappyBird" height="317" width="300" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/FlappyBird/flappyb.gif">
 
