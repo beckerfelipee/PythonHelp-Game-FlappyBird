@@ -6,7 +6,7 @@
 
 This repository contain a simple version of the Flappy Bird game implemented in Python using the Pygame library. This game was created as part of the [Python Help](https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/PythonHelp/Python%20Help.png) project, aiming to teach students how to create games using Pygame.
 
-<img alt="FlappyBird" height="317" width="300" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/FlappyBird/flappyb.gif">
+<img alt="FlappyBird" height="317" width="300" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/Misc/flappyb.gif">
 
 ## Project Purpose
 
